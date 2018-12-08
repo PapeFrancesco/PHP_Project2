@@ -1,0 +1,21 @@
+.container-fluid{
+    background-color: aqua;
+    height: 100vh;
+}
+.col.order-first{
+    background-color: rgb(12, 65, 65);
+    text-align: center;
+}
+.col-sm-4.order-second{
+    background-color: blue;
+    text-align: center;
+    height: 100vh;
+}
+.col-sm-4.order-last{
+    background-color: yellowgreen;
+    text-align: center;
+}
+.form-group{
+    margin-top: 175px;
+    background-color: yellow;
+}
